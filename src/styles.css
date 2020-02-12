@@ -1,4 +1,12 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+.btn {
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+}
+
+.btnArea {
+  width: 180px;
+  height: 180px;
+  border: 2px solid black;
+  display: inline-block;
 }
